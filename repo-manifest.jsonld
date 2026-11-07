@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/servicenow.itsm/commit/d7d387abbde446c765acc1110c712fcd5c248f4d",
       "git:hexsha": "d7d387abbde446c765acc1110c712fcd5c248f4d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/servicenow.itsm/commit/e1de42a99e04d3ae4699138f813cab7240aa4de6",
