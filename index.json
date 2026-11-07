@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "servicenow.itsm",
+  "versions": [
+    {
+      "commit": "d7d387abbde446c765acc1110c712fcd5c248f4d",
+      "tag": "",
+      "parsed_at": "2026-11-07T13:16:21.130275+00:00"
+    }
+  ]
+}
